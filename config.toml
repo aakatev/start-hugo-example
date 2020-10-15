@@ -1,0 +1,5 @@
+baseURL = "https://github.io/aakatev/start-hugo-example"
+languageCode = "en-us"
+title = "My Website"
+publishDir = "docs"
+paginate = 4

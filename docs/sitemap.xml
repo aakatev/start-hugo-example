@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/post-5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/post-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/post-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/post-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/post-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.io/aakatev/start-hugo-example/posts/post-2/</loc>
+  </url>
+  
+</urlset>
